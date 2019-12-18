@@ -1,1 +1,1 @@
-# q9psvkernel
+# RK3288-q9
