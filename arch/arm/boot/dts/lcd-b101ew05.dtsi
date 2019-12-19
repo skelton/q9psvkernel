@@ -19,7 +19,7 @@
 				vback-porch = <20>;
 				vfront-porch = <13>;
 				hsync-len = <20>;
-				vsync-len = <3>;
+				vsync-len = <10>;
 				hsync-active = <0>;
 				vsync-active = <0>;
 				de-active = <0>;
